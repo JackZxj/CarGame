@@ -1,0 +1,21 @@
+.canBox{
+	width: 800px;
+	height: 600px;
+	padding: 0;
+	background: #468;
+	position: relative;
+	margin: auto;
+	border-radius: 0.6em;
+}
+canvas{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 800px;
+	height: 600px;
+	border-radius: 0.6em;
+}
+.btn {
+	position: absolute;
+	z-index: 99;
+}
